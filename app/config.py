@@ -1,0 +1,4 @@
+DEFAULT_RATE = 150
+DEFAULT_VOLUME = 1.0
+DEFAULT_VOICE = 'female'
+OUTPUT_DIRECTORY = 'resources/output/'
