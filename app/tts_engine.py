@@ -1,6 +1,6 @@
 import pyttsx3
 
-def init_tts_engine(rate=150, volume=1.0, voice_gender='female'):
+def init_tts_engine(rate, volume, voice_gender):
     engine = pyttsx3.init()
     
     # Set properties
